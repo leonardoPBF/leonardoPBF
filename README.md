@@ -30,10 +30,10 @@ just a simple boy who reaches be better
 **GitHub Stats: before i become better**  
 
 <a href="https://github.com/leonardoPBF">
-  <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPBF&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPBF&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/leonardoPBF">
-  <img awidth="100%"  src="https://github-readme-stats.vercel.app/api?username=leonardoPBF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="leonardoPBF GitHub Stats" />
+  <img a width="70%" src="https://github-readme-stats.vercel.app/api?username=leonardoPBF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="leonardoPBF GitHub Stats" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
