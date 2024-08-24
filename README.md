@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## Helou <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>, i'm Leonardo Paul Buitron Farfan
+## Helou <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, i'm Leonardo Paul Buitron Farfan
 
 ![GitHub search hit counter](https://img.shields.io/github/search/leonardoPBF/leonardoPBF/click)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
 
 
 just a simple boy who reaches be better
@@ -30,10 +30,10 @@ just a simple boy who reaches be better
 **GitHub Stats: before i become better**  
 
 <a href="https://github.com/leonardoPBF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPBF&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPBF&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/leonardoPBF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoPBF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="leonardoPBF GitHub Stats" />
+  <img awidth="100%"  src="https://github-readme-stats.vercel.app/api?username=leonardoPBF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="leonardoPBF GitHub Stats" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
