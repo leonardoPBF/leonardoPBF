@@ -105,9 +105,11 @@
 </table>
 <!--- stats (end) -->
 
-just a simple boy who reaches be better
+**just a simple boy who reaches be better**
 
 ### 🛠 &nbsp;Tech Stack
+
+<img width="50%" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -126,8 +128,6 @@ just a simple boy who reaches be better
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<img width="50%" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
-
 ### 🗃 &nbsp;Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -136,8 +136,12 @@ just a simple boy who reaches be better
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-
-
+<a href="https://github.com/leonardoPBF">
+<img width="50%" align="left" src="./resource/gif/kobayashi_programer.gif" />
+</a>
+<a href="https://github.com/leonardoPBF">
+<img width="50%" align="right" src="./resource/gif/Golden-Boy.gif" />
+</a>
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
@@ -150,18 +154,11 @@ just a simple boy who reaches be better
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-<a href="https://github.com/leonardoPBF">
-<img src="./resource/gif/kobayashi_programer.gif" />
-</a>
-<a href="https://github.com/leonardoPBF">
-<img src="./resource/gif/Golden-Boy.gif" />
-</a>
-
 <p align = "center">
 	<img src = "https://github.com/leonardoPBF/leonardoPBF/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-</p>        
+</p>
 <!--- stats (end) -->
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
