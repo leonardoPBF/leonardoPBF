@@ -139,9 +139,6 @@
 <a href="https://github.com/leonardoPBF">
 <img width="50%" align="left" src="./resource/gif/kobayashi_programer.gif" />
 </a>
-<a href="https://github.com/leonardoPBF">
-<img width="50%" align="right" src="./resource/gif/Golden-Boy.gif" />
-</a>
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
@@ -154,9 +151,24 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-<p align = "center">
-	<img src = "https://github.com/leonardoPBF/leonardoPBF/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<a href="https://github.com/leonardoPBF">
+<img width="50%" align="right" src="./resource/gif/Golden-Boy.gif" />
+</a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </p>
 <!--- stats (end) -->
