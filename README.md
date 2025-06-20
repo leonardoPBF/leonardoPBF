@@ -153,6 +153,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
+### snake of my contributions
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -195,8 +197,9 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=hallo+one+more+time;only+i+want+to+say;nah,+i'd+win)](https://git.io/typing-svg)
-        
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=hallo+one+more+time;only+i+want+to+say;nah,+i'd+win+...)](https://git.io/typing-svg)
+</div>
+
 ```js
 /**
  * Represents me.
@@ -216,11 +219,8 @@
  * @returns {Object} Leo.
  */
 ```
-        </pre>
-      </div>
 </details>
   </details>
-
   <img height="200px" src="./resource/images/Satoru_Gojo_bot.png" />
 
 </div>
