@@ -109,7 +109,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img width="50%" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
+<img width="30%" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -137,7 +137,7 @@
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 <a href="https://github.com/leonardoPBF">
-<img width="50%" align="left" src="./resource/gif/kobayashi_programer.gif" />
+<img width="30%" align="left" src="./resource/gif/kobayashi_programer.gif" />
 </a>
 
 ### 🧰 &nbsp;Version Controll & Tools 
@@ -152,7 +152,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 <a href="https://github.com/leonardoPBF">
-<img width="50%" align="right" src="./resource/gif/Golden-Boy.gif" />
+<img width="30%" align="right" src="./resource/gif/Golden-Boy.gif" />
 </a>
 
 <picture>
