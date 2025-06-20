@@ -198,7 +198,8 @@
   <br>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=hallo+one+more+time;only+i+want+to+say;nah,+i'd+win+...)](https://git.io/typing-svg)
-</div>
+
+  <div align="left">
 
 ```js
 /**
@@ -219,8 +220,9 @@
  * @returns {Object} Leo.
  */
 ```
+ </div>
 </details>
-  </details>
+  
   <img height="200px" src="./resource/images/Satoru_Gojo_bot.png" />
 
 </div>
