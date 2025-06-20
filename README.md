@@ -5,8 +5,7 @@
 <a href="https://github.com/leonardoPBF">
 <img src="./resource/gif/fondo_red_Lover.gif" />
 </a>
-
-
+<br>
 
   [![GitHub Followers](https://img.shields.io/github/followers/leonardoPBF?label=Follow&style=social)](https://github.com/leonardoPBF)
   [![GitHub Stars](https://img.shields.io/github/stars/leonardoPBF?style=social)](https://github.com/leonardoPBF)
@@ -40,12 +39,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75">
 
-<img align="" src="https://data.textstudio.com/output/sample/animated/9/9/6/5/net-34-15699.gif" width="75">
+<img src="https://data.textstudio.com/output/sample/animated/9/9/6/5/net-34-15699.gif" width="75">
 
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="75">
 </div>
 
 - 🌱 I’m currently learning ...
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="75"/>
 
@@ -55,8 +56,17 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="75">
 
+</div>
+
 - 😄 Pronouns: leo
-- ⚡ Fun fact: i dont know, i always crazy
+- ⚡ Fun fact: i dont know, i'm always crazy
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">CV</a>
+
+<div align="center">
+
+### GitHub Stats: before i become better 
+
+<div>
 
 <!--- stats & Trophy (start) -->
 
@@ -68,8 +78,12 @@
 <div align=center width=100%>
 
 ![leonardoPBF GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoPBF&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardoPBF&theme=radical)](https://git.io/streak-stats) 
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardoPBF&theme=radical)](https://git.io/streak-stats)  -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPBF&layout=compact&theme=radical)
+
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=leonardoPBF&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 </div>
 
 <!--- trophy (start) -->
@@ -84,32 +98,18 @@
 
 <td width="50%" align="center">
 
-  <img align="center" width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardoPBF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" heigth=50% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardoPBF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
-
-
-<img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 just a simple boy who reaches be better
-
-**GitHub Stats: before i become better**  
-
-
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -118,21 +118,25 @@ just a simple boy who reaches be better
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<img width="50%" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
 
 ### 🗃 &nbsp;Databases
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
@@ -140,22 +144,21 @@ just a simple boy who reaches be better
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
+
+<a href="https://github.com/leonardoPBF">
+<img src="./resource/gif/kobayashi_programer.gif" />
+</a>
+<a href="https://github.com/leonardoPBF">
+<img src="./resource/gif/Golden-Boy.gif" />
+</a>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/leonardoPBF/leonardoPBF/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 </p>        
@@ -166,62 +169,51 @@ just a simple boy who reaches be better
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/leonardo-paul-buitron-farfan-159949206/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/leonardoPBF">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 </div>
 
 </p>
 
+### Gojo
+
 <div align="center">
 
+  <img height="200px" src="./resource/images/Satoru_Gojo_top.png" />
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+  <details>
+    <summary>Don't open please :v</summary>
 
-<details>
-<summary>Open profile</summary>
+  <br>
 
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
-  </div>
-</div>
-
-<details>
-<summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=hallo+one+more+time;only+i+want+to+say;nah,+i'd+win)](https://git.io/typing-svg)
+        
 ```js
 /**
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+ * @param {string} location - Peru
+ * @param {string} languagues - English, spanish
+ * @param {string} jobTitle - Engineer of systems.
+ * @param {string} specialization - Building full stack apps
+ * @param {string} interests - AI, Distributed Systems & Programing
+ * @param {string} hobbies - Trekking, basketball, football, voley, run, gaming & playing music.
  * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} weakness - control of my time and G.
  *
- * @throws {Punch} To any and all bugs.
+ * @throws {Punch} To the people who don't want to be better, the team problems and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Leo.
  */
 ```
+        </pre>
+      </div>
+</details>
+  </details>
+
+  <img height="200px" src="./resource/images/Satoru_Gojo_bot.png" />
 
 </div>
-
-</details>
-
