@@ -64,6 +64,64 @@
 
 <div align="center">
 
+<div align="center">
+
+### 📁My best Projects
+  <table>
+    <tr>
+      <!-- Proyecto 1 -->
+      <td align="center" width="45%">
+        <h3>Proyecto 1</h3>
+        <img src="./resource/images/Lmylog.png" alt="Proyecto 1" /><br><br>
+        <a href="https://github.com/leonardoPBF/proyecto1">
+          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+        </a>
+        <a href="https://youtube.com">
+          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+        </a>
+      </td>
+
+    
+  <td align="center" width="45%">
+      <h3>Proyecto 2</h3>
+        <img src="./resource/images/Lmylog.png" alt="Proyecto 2" /><br><br>
+        <a href="https://github.com/leonardoPBF/proyecto2">
+          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+        </a>
+        <a href="https://youtube.com">
+          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Proyecto 3 -->
+      <td align="center">
+        <h3>Proyecto 3</h3>
+        <img src="./resource/images/Lmylog.png" alt="Proyecto 3" /><br><br>
+        <a href="https://github.com/leonardoPBF/proyecto3">
+          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+        </a>
+        <a href="https://youtube.com">
+          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+        </a>
+      </td>
+
+  <!-- Proyecto 4 -->
+  <td align="center">
+        <h3>Proyecto 4</h3>
+        <img src="./resource/images/Lmylog.png" alt="Proyecto 4" /><br><br>
+        <a href="https://github.com/leonardoPBF/proyecto4">
+          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+        </a>
+        <a href="https://youtube.com">
+          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ### GitHub Stats: before i become better 
 
 <div>
@@ -153,22 +211,15 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### snake of my contributions
 
+### snake of my contributions
+<!--- Put your own svg contribution fron: --->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" src="./github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" src="./github-user-contribution.svg" />
+  <img alt="GitHub contribution snake" src="./github-user-contribution-dark.svg" />
 </picture>
+
 
 </p>
 <!--- stats (end) -->
