@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/leonardoPBF">
-<img src="./resource/gif/fondo_red_Lover.gif" />
+  <img src="./resource/gif/violet-inspiration.gif" />
 </a>
 
 <br>
@@ -15,22 +15,22 @@
 </div>
 <div align="center">
 
-## Showw me time 👻
+# Show me time 👻
 
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7d2181&size=38&lines=Hi+i'm+Leonardo+Paul!;Nice+to+meet+you;let's+find+stars)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7d2181&size=35&lines=Hi+i'm+Leonardo+Paul+L!;Nice+to+meet+you+dear;let's+find+your+star)](https://git.io/typing-svg)
 </div>
 
-<p>Hi, again if u are here, if because im doing great things, thats good, u are seeing now my low level ...</p>
+<p>If u are here, if because im doing great things, thats good, u are seeing now my low level ...</p>
 
 - Right now, I’m building different apps, ranging from easy websites to complex systems like software for businesses. Now I'm interested in software architecture; I think now and in the coming future, it's key
-My best stack to the moment:
+- My best stack and most i used:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,postgres,nextjs,react,typescript" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,express,nest,net,javascript,typescript,java,cs,,postgres,mysql,mongodb,,,docker,vercel,,,,azure,&perline=5" />
   </a>
 </p>
 
@@ -57,72 +57,73 @@ My best stack to the moment:
 
 <div align="center">
 
-### 📁My best Projects
-  <table>
-    <tr>
-      <!-- Proyecto 1 -->
-      <td align="center" width="30%">
-        <h3>Goodlunch</h3>
-        <img src="./resource/images/Lmylog.png" alt="Proyecto 1" /><br><br>
-        <a href="https://github.com/leonardoPBF/proyecto1">
-          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
-        </a>
-        <a href="https://youtube.com">
-          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
-        </a>
-      </td>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-    
-  <td align="center" width="30%">
+## 📁My best Projects (now)
+<table>
+  <tr>
+    <!-- Proyecto 1 -->
+    <td align="center" width="33%">
+      <h3>Goodlunch</h3>
+      <img src="./resource/images/Lmylog.png" alt="Proyecto 1" /><br><br>
+      <a href="https://github.com/leonardoPBF/proyecto1">
+        <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+      </a>
+      <a href="https://youtube.com">
+        <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+      </a>
+    </td>
+    <!-- Proyecto 2 -->
+    <td align="center" width="33%">
       <h3>Lumina</h3>
-        <img src="./resource/images/Lmylog.png" alt="Proyecto 2" /><br><br>
-        <a href="https://github.com/leonardoPBF/proyecto2">
-          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
-        </a>
-        <a href="https://youtube.com">
-          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
-        </a>
-      </td>
-      <td align="center" width="30%">
-        <h3>Coming son..</h3>
-        <img src="./resource/images/Lmylog.png" alt="Proyecto 3" /><br><br>
-        <a href="https://github.com/leonardoPBF/proyecto3">
-          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
-        </a>
-        <a href="https://youtube.com">
-          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
-        </a>
-      </td>
-    </tr>
-      
-  </table>
+      <img src="./resource/images/Lmylog.png" alt="Proyecto 2" /><br><br>
+      <a href="https://github.com/leonardoPBF/proyecto2">
+        <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+      </a>
+      <a href="https://youtube.com">
+        <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+      </a>
+    </td>
+    <!-- Proyecto 3 -->
+    <td align="center" width="33%">
+      <h3>Coming son..</h3>
+      <img src="./resource/images/Lmylog.png" alt="Proyecto 3" /><br><br>
+      <a href="https://github.com/leonardoPBF/proyecto3">
+        <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
+      </a>
+      <a href="https://youtube.com">
+        <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 
-### GitHub Stats: before i become better 
+## My GitHub Stats:  
   <!--- stats (start) -->
 <div>
 
 [![GitHub Streak](https://github-readme-streak-stats-a5df.vercel.app?user=leonardoPBF&theme=dark)](https://git.io/streak-stats)
 
 
-
-<div width="100%">
-
-  <img heigth=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardoPBF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/leonardoPBF">
+        <img width="90%" src="./resource/gif/L-phone display.gif" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardoPBF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
 
 <!--- stats (end) -->
-<br>
 
-**just a simple boy who reaches be better**
 
-<a href="https://github.com/leonardoPBF">
-<img width="90%" src="./resource/gif/Golden-Boy.gif" />
-</a>
-
-### snake of my contributions
+### Snake of my contributions
 <!--- Put your own svg contribution fron: --->
 <picture>
   <source media="(prefers-color-scheme: dark)" src="./github-user-contribution-dark.svg" />
@@ -130,22 +131,8 @@ My best stack to the moment:
   <img alt="GitHub contribution snake" src="./github-user-contribution-dark.svg" />
 </picture>
 
-
 </p>
 <!--- stats (end) -->
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/leonardo-paul-buitron-farfan-159949206/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/leonardoPBF">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-</div>
-
-</p>
 
 ### Gojo
 
@@ -158,7 +145,7 @@ My best stack to the moment:
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=hallo+one+more+time;only+i+want+to+say;nah,+i'd+win+...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=Americayaaaaaaaaaaaaaaaaaa)](https://git.io/typing-svg)
 
   <div align="left">
 
@@ -174,12 +161,47 @@ My best stack to the moment:
  * @param {string} interests - AI, Distributed Systems & Programing
  * @param {string} hobbies - Trekking, basketball, football, voley, run, gaming & playing music.
  * @param {string} stength - Resolute.
- * @param {string} weakness - control of my time and G.
+ * @param {string} weakness - control of my time and A, G y D top secret.
  *
  * @throws {Punch} To the people who don't want to be better, the team problems and all bugs.
  *
  * @returns {Object} Leo.
  */
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡿⠁⠀⠄⠡⠈⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⣾⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠁⠈⠄⠡⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡟⠁⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⣱⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠠⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇⠀⠀⢠⣿⣳⣿⣿⣿⣿⣷⡀⠀⠀⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⢀⣾⠀⠀⢠⣿⣿⣹⣿⣿⣿⣿⣿⣧⠀⠀⢿⣦⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⢠⡇⠀⠀⡼⣿⠀⠀⡿⣾⡇⣿⣿⣿⣿⣿⣿⣿⡆⠀⢸⣿⣧⠀⠀⢘⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⣠⣄⠀⢀⣛⣻⠀⣸⣼⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⠀⠸⣟⣿⡄⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠰⣻⣿⠀⢘⠉⠁⠀⠈⢜⣩⡇⣿⣿⣿⣿⣯⣛⡯⢋⠀⠀⠀⠀⢬⡀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⣰⣿⠏⡄⠃⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⢣⣦⠹⡄⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡇⠀⠀⠀⠀⠀⢀⣿⡏⣼⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠸⣿⡆⡁⡀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠂⠀⠀⠀⠀⠀⢸⣿⡁⣿⡇⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⢄⣠⡀⠀⠀⠀⠰⣿⡇⢠⡅⠀⠀⢠⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⢸⣿⣇⢻⣿⣾⣿⠆⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡾⠿⠇⠀⠀⠀⢸⣿⠃⣾⡁⠀⠀⡀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⢸⣿⣿⣦⣻⣧⠁⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣄⠀⠀⠀⠠⢾⣷⣾⣿⠁⠀⠀⠁⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⠀⠀⠀⠁⠐⠀⠐⢸⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⡿⠀⠀⠁⣂⠁⠀⠀⢸⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⠃⠀⠀⠀⡆⠀⠀⠀⢸⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡽⠃⠀⠀⠀⢰⠋⠀⠀⠀⢸⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣭⣯⣽⣿⣿⣿⣿⣿⣿⣿⠗⠋⠀⠀⠀⠀⠃⡎⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣻⠟⠋⠀⠀⠀⠀⠀⠀⠀⠠⠱⠀⠀⠀⠀⠐⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣭⣛⣛⡿⠿⣿⠟⣋⣫⣴⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⡧⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⢠⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢆⣤⡐⢢⠙⠿⠻⠿⠿⠿⠿⠾⠿⠿⠛⠛⠛⠃⠀⠀⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣾⣤⣧⣜⣐⣂⣒⣐⣢⣑⣬⣒⣤⣴⣾⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⡆⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⢰⡇⢰⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡀⢸⡀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⢀⣿⠄⢸⣿⣿⣿⣿
+⣿⢟⣿⣿⣧⠘⣷⡄⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⢠⣿⡟⢠⣿⣿⢿⣿⣿
+⣿⣿⣿⣿⣿⣇⢻⣿⣦⡀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⢀⣴⣿⣿⣡⣿⣿⣿⣷⣿
+⣏⣿⣿⣿⣿⣿⣷⣿⣿⣿⣦⣄⡀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⢀⣴⣿⣿⣿⣷⣿⣿⣿⣿⣿⡼
+
+osaka-san follower <3
 ```
  </div>
 </details>
