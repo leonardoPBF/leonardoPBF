@@ -5,6 +5,7 @@
 <a href="https://github.com/leonardoPBF">
 <img src="./resource/gif/fondo_red_Lover.gif" />
 </a>
+
 <br>
 
   [![GitHub Followers](https://img.shields.io/github/followers/leonardoPBF?label=Follow&style=social)](https://github.com/leonardoPBF)
@@ -14,53 +15,43 @@
 </div>
 <div align="center">
 
-## Here’s a little about me 👻
+## Showw me time 👻
 
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3F4C&size=30&lines=Me?+I'm+Leonardo+Paul!;I'm+always+crazy😜!;But+always+coding;Waiting+for+u+YF)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7d2181&size=38&lines=Hi+i'm+Leonardo+Paul!;Nice+to+meet+you;let's+find+stars)](https://git.io/typing-svg)
 </div>
 
-<p>Hi, I'm Leonardo Paul — a university student at USMP with a drive to learn, create, and build. I'm currently on the path to becoming a full stack developer and always open to new opportunities that challenge me and help me grow.</p>
+<p>Hi, again if u are here, if because im doing great things, thats good, u are seeing now my low level ...</p>
 
-- 🔧 Right now, I’m building a tareos app for a private business .net C#, collaborating on an AI + IT project, and experimenting with Python automation — like auto-responding to Google Forms. Always exploring!. Main tools I’ve been using include:
+- Right now, I’m building different apps, ranging from easy websites to complex systems like software for businesses. Now I'm interested in software architecture; I think now and in the coming future, it's key
+My best stack to the moment:
 
-<div align=center>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,postgres,nextjs,react,typescript" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75"/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="75">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="75">
+- I’m currently learning ...
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75">
+  - Cloud Computing
+  - Differents types of architecture (microservices, client-server, event-oriented and serverless)
+  - Implementation off rabbitmq
 
-<img src="https://data.textstudio.com/output/sample/animated/9/9/6/5/net-34-15699.gif" width="75">
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="75">
-</div>
-
-- 🌱 I’m currently learning ...
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="75"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75">
-
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="75">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="75">
 
 </div>
 
-- 😄 Pronouns: leo
-- ⚡ Fun fact: i dont know, i'm always crazy
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">CV</a>
+- Pronouns: leo
+- Fun fact: the girls are my weakness HAHa
+- Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">CV</a>
 
 <div align="center">
 
@@ -70,8 +61,8 @@
   <table>
     <tr>
       <!-- Proyecto 1 -->
-      <td align="center" width="45%">
-        <h3>Proyecto 1</h3>
+      <td align="center" width="30%">
+        <h3>Goodlunch</h3>
         <img src="./resource/images/Lmylog.png" alt="Proyecto 1" /><br><br>
         <a href="https://github.com/leonardoPBF/proyecto1">
           <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
@@ -82,8 +73,8 @@
       </td>
 
     
-  <td align="center" width="45%">
-      <h3>Proyecto 2</h3>
+  <td align="center" width="30%">
+      <h3>Lumina</h3>
         <img src="./resource/images/Lmylog.png" alt="Proyecto 2" /><br><br>
         <a href="https://github.com/leonardoPBF/proyecto2">
           <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
@@ -92,11 +83,8 @@
           <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <!-- Proyecto 3 -->
-      <td align="center">
-        <h3>Proyecto 3</h3>
+      <td align="center" width="30%">
+        <h3>Coming son..</h3>
         <img src="./resource/images/Lmylog.png" alt="Proyecto 3" /><br><br>
         <a href="https://github.com/leonardoPBF/proyecto3">
           <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
@@ -105,112 +93,34 @@
           <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
         </a>
       </td>
-
-  <!-- Proyecto 4 -->
-  <td align="center">
-        <h3>Proyecto 4</h3>
-        <img src="./resource/images/Lmylog.png" alt="Proyecto 4" /><br><br>
-        <a href="https://github.com/leonardoPBF/proyecto4">
-          <img src="https://img.shields.io/badge/GitHub-View-blue?logo=github&style=for-the-badge" />
-        </a>
-        <a href="https://youtube.com">
-          <img src="https://img.shields.io/badge/Youtube-Video-red?logo=youtube&style=for-the-badge" />
-        </a>
-      </td>
     </tr>
+      
   </table>
 </div>
 
 
 ### GitHub Stats: before i become better 
-
+  <!--- stats (start) -->
 <div>
 
-<!--- stats & Trophy (start) -->
+[![GitHub Streak](https://github-readme-streak-stats-a5df.vercel.app?user=leonardoPBF&theme=dark)](https://git.io/streak-stats)
 
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+
+
+<div width="100%">
+
+  <img heigth=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardoPBF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-<div align=center width=100%>
-
-![leonardoPBF GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoPBF&show_icons=true&theme=radical) 
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardoPBF&theme=radical)](https://git.io/streak-stats)  -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPBF&layout=compact&theme=radical)
-
-<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=leonardoPBF&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 </div>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=leonardoPBF&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" heigth=50% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardoPBF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
+<br>
 
 **just a simple boy who reaches be better**
 
-### 🛠 &nbsp;Tech Stack
-
 <a href="https://github.com/leonardoPBF">
-<img width="50%" align="right" src="./resource/gif/Golden-Boy.gif" />
+<img width="90%" src="./resource/gif/Golden-Boy.gif" />
 </a>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗃 &nbsp;Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-<a href="https://github.com/leonardoPBF">
-<img width="50%" align="left" src="./resource/gif/kobayashi_programer.gif" />
-</a>
-
-### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-
 
 ### snake of my contributions
 <!--- Put your own svg contribution fron: --->
